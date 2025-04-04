@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhat Bhusal</h1>
-<h3 align="center">A passionate full stack developer from Nepal as well as game developer</h3>
+<h2 align="center">A passionate developer from Nepal </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatbhusal&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatbhusal" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/prabhatbhusal4" target="blank"><img src="https://img.shields.io/twitter/follow/prabhatbhusal4?logo=twitter&style=for-the-badge" alt="prabhatbhusal4" /></a> </p>
 
-- 🔭 I’m currently working on **game**
+- 🔭 I’m currently working on **horror-game**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **react,django and game development and gis**
+- 💬 Ask me about **Nextjs,django and game development and AI**
 
 - 📫 How to reach me **prabhatbhusal777@gmail.com**
 
