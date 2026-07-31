@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/prabhatbhusal4" target="blank"><img src="https://img.shields.io/twitter/follow/prabhatbhusal4?logo=twitter&style=for-the-badge" alt="prabhatbhusal4" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio Project**
+- 🔭 I’m currently working on **Arrival Space and 3DGS**
 
-- 🌱 I’m currently working **Nextjs**
+- 🌱 I’m currently working **3DGS Game**
 
 - 💬 Ask me about **Nextjs,django and game development**
 
