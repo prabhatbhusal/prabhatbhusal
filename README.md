@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **3DGS**
 
-- 🌱 I’m currently working **3DGS platform **
+- 🌱 I’m currently working **3DGS platform**
 
 - 💬 Ask me about **Frontend,backend and game development**
 
