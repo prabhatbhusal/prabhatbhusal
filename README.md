@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working **3DGS platform **
 
-- 💬 Ask me about ****
+- 💬 Ask me about **Frontend,backend and game development**
 
 - 📫 How to reach me **prabhatbhusal777@gmail.com**
 
