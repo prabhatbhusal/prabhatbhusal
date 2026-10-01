@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://github.com/prabhatbhusal">
-    <img alt="Prabhat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&bg_color=1d2021&color=ebdbb2&line=E88E23&point=E88E23&title_color=E88E23&hide_border=true" width="100%" />
+    <img alt="Prabhat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&theme=gruvbox&hide_border=true" width="100%" />
   </a>
 </div>
 
