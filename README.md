@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prabhatbhusal4" target="blank"><img src="https://img.shields.io/twitter/follow/prabhatbhusal4?logo=twitter&style=for-the-badge" alt="prabhatbhusal4" /></a> </p>
 
-- 🔭 I’m currently working on **3DGS**
-
-- 🌱 I’m currently working **3DGS platform**
+- 🔭 I’m currently working on **3DGS platform**
 
 - 💬 Ask me about **Frontend,backend and game development**
 
