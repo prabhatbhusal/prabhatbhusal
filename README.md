@@ -1,10 +1,15 @@
 <div align="center">
   <h1>Hi 👋, I'm Prabhat Bhusal</h1>
-  <h3>🎮 Game Developer | 🌌 3D Gaussian Splatting Specialist</h3>
-  <p><i>Crafting immersive worlds and pushing the boundaries of spatial computing & photorealistic rendering from Nepal 🇳🇵</i></p>
+  
+  <!-- Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E88E23&center=true&vCenter=true&width=600&lines=🎮+Game+Developer;🌌+3D+Gaussian+Splatting+Specialist;💻+Frontend+Developer;Crafting+Immersive+Worlds!" alt="Typing SVG" />
+  </a>
+
+  <p><i>Pushing the boundaries of spatial computing, photorealistic rendering, and interactive web experiences from Nepal 🇳🇵</i></p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=prabhatbhusal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=prabhatbhusal&label=Profile%20views&color=E88E23&style=flat" alt="Profile Views" />
     <a href="https://twitter.com/prabhatbhusal4" target="_blank">
       <img src="https://img.shields.io/twitter/follow/prabhatbhusal4?logo=twitter&style=flat&color=blue" alt="Twitter Follow" />
     </a>
@@ -19,27 +24,38 @@
 
 ### 👾 What I Do
 
-- 🔭 I’m currently engineering solutions for a **3D Gaussian Splatting (3DGS) platform**, bringing high-fidelity, real-time volumetric scenes to life.
+- 🔭 I’m currently engineering solutions for a **3D Gaussian Splatting (3DGS) platform**, bringing high-fidelity volumetric scenes to life.
 - 🕹️ Building games and interactive experiences using **Unity** and **Unreal Engine**.
-- 💬 Ask me about: **Game architectures, 3D rendering pipelines, C++, and Backend integrations.**
+- 💻 Creating seamless, responsive user interfaces as a **Frontend Developer**.
+- 💬 Ask me about: **Game architectures, 3D rendering pipelines, React, C++, and Backend integrations.**
 - 📫 Reach out at: **[prabhatbhusal777@gmail.com](mailto:prabhatbhusal777@gmail.com)**
 
 ### 🛠️ Tech Stack & Arsenal
 
-**Game Engines & Core Languages**
+**🎮 Game Engines & 3D Core**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,c,py,java&perline=10" alt="Game Dev Stack" />
 </p>
 
-**Web, Backend & Database**
+**💻 Frontend & UI Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,postgres,react,js,tailwind,html,css&perline=10" alt="Web Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,figma&perline=10" alt="Frontend Stack" />
 </p>
 
-**Tools & Environment**
+**⚙️ Backend, Database & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,figma&perline=10" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=django,postgres,linux,git&perline=10" alt="Backend and Tools" />
 </p>
+
+### 🐍 GitHub Contribution Snake
+<!-- The Snake Animation Image will appear here once you set up the Action -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ### 📊 GitHub Analytics
 
