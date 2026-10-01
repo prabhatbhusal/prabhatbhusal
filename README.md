@@ -30,22 +30,28 @@
 - 💬 Ask me about: **Game architectures, 3D rendering pipelines, React, C++, and Backend integrations.**
 - 📫 Reach out at: **[prabhatbhusal777@gmail.com](mailto:prabhatbhusal777@gmail.com)**
 
-### 🛠️ Tech Stack & Arsenal
+<div align="center">
+  <h3>🛠️ Tech Stack & Arsenal</h3>
 
-**🎮 Game Engines & 3D Core**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,c,py,java&perline=10" alt="Game Dev Stack" />
-</p>
+  <p><b>🎮 Game Engines & 3D Core</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,c,py,java&perline=10" alt="Game Dev Stack" />
+  </p>
 
-**💻 Frontend & UI Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,figma&perline=10" alt="Frontend Stack" />
-</p>
+  <br/>
 
-**⚙️ Backend, Database & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,postgres,linux,git&perline=10" alt="Backend and Tools" />
-</p>
+  <p><b>💻 Frontend & UI Development</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,figma&perline=10" alt="Frontend Stack" />
+  </p>
+
+  <br/>
+
+  <p><b>⚙️ Backend, Database & Tools</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=django,postgres,linux,git&perline=10" alt="Backend and Tools" />
+  </p>
+</div>
 
 ### 🐍 GitHub Contribution Snake
 <!-- The Snake Animation Image will appear here once you set up the Action -->
