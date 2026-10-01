@@ -85,3 +85,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&theme=react-dark&hide_border=true">
+  <img alt="Prabhat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&theme=react&hide_border=true">
+</picture>
