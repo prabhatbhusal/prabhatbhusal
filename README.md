@@ -33,17 +33,17 @@
 ### 🛠️ Tech Stack & Arsenal
 
 **🎮 Game Engines & 3D Core**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,c,py,java&perline=10" alt="Game Dev Stack" />
 </p>
 
 **💻 Frontend & UI Development**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,figma&perline=10" alt="Frontend Stack" />
 </p>
 
 **⚙️ Backend, Database & Tools**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=django,postgres,linux,git&perline=10" alt="Backend and Tools" />
 </p>
 
