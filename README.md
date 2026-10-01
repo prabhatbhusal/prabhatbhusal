@@ -47,21 +47,13 @@
   <img src="https://skillicons.dev/icons?i=django,postgres,linux,git&perline=10" alt="Backend and Tools" />
 </p>
 
-### 📈 Live Commits & Activity
-
-<div align="center">
-  <a href="https://github.com/prabhatbhusal">
-    <img alt="Prabhat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&theme=gruvbox&hide_border=true" width="100%" />
-  </a>
-</div>
-
-### 🧊 3D Contribution Landscape
-
+### 🐍 GitHub Contribution Snake
+<!-- The Snake Animation Image will appear here once you set up the Action -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/main/profile-3d-contrib/profile-gitblock.svg">
-    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -93,7 +85,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&theme=react-dark&hide_border=true">
-  <img alt="Prabhat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&theme=react&hide_border=true">
-</picture>
