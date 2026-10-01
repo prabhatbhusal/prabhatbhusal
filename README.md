@@ -47,13 +47,21 @@
   <img src="https://skillicons.dev/icons?i=django,postgres,linux,git&perline=10" alt="Backend and Tools" />
 </p>
 
-### 🐍 GitHub Contribution Snake
-<!-- The Snake Animation Image will appear here once you set up the Action -->
+### 📈 Live Commits & Activity
+
+<div align="center">
+  <a href="https://github.com/prabhatbhusal">
+    <img alt="Prabhat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&bg_color=1d2021&color=ebdbb2&line=E88E23&point=E88E23&title_color=E88E23&hide_border=true" width="100%" />
+  </a>
+</div>
+
+### 🧊 3D Contribution Landscape
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/main/profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/prabhatbhusal/prabhatbhusal/main/profile-3d-contrib/profile-night-rainbow.svg">
   </picture>
 </div>
 
