@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=62FF2500&center=true&width=600&lines=Hi+%F0%9F%91%8B;%F0%9F%92%BBI'm+Prabhat+Bhusal" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=F70000&background=62FF2500&center=true&width=600&lines=Hi+%F0%9F%91%8B;%F0%9F%92%BBI'm+Prabhat+Bhusal" alt="Typing SVG" /></a>
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E88E23&center=true&vCenter=true&width=600&lines=🎮+Game+Developer;🌌+3DGS+%26+Spatial+Web+Dev;💻+Full+Stack+Developer;✨+Crafting+Immersive+Worlds!" alt="Typing SVG" />
