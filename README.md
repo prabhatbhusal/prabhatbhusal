@@ -35,7 +35,7 @@
 
   <p><b>🎮 Game Engines & 3D Core</b></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,cs,py&perline=10" alt="Game Dev Stack" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,cs&perline=10" alt="Game Dev Stack" />
   </p>
 
   <br/>
