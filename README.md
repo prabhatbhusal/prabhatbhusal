@@ -3,8 +3,8 @@
   
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E88E23&center=true&vCenter=true&width=600&lines=🎮+Game+Developer;🌌+3D+Gaussian+Splatting+Specialist;💻+Frontend+Developer;Crafting+Immersive+Worlds!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E88E23&center=true&vCenter=true&width=600&lines=🎮+Game+Developer;🌌+3DGS+%26+Spatial+Web+Dev;💻+Full+Stack+Developer;✨+Crafting+Immersive+Worlds!" alt="Typing SVG" />
+</a>
 
   <p><i>Pushing the boundaries of spatial computing, photorealistic rendering, and interactive web experiences from Nepal 🇳🇵</i></p>
 
