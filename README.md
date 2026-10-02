@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi 👋, I'm Prabhat Bhusal</h1>
-  
+  <h1> I'm Prabhat Bhusal</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E88E23&center=true&vCenter=true&width=600&lines=🎮+Hi 👋,;💻+I'm+Prabhat+Bhusal" alt="Typing SVG" />
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E88E23&center=true&vCenter=true&width=600&lines=🎮+Game+Developer;🌌+3DGS+%26+Spatial+Web+Dev;💻+Full+Stack+Developer;✨+Crafting+Immersive+Worlds!" alt="Typing SVG" />
