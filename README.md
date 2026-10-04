@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+<br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=prabhatbhusal&theme=gruvbox&margin-w=15" alt="GitHub Trophies" />
   </a>
