@@ -66,7 +66,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabhatbhusal&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="prabhatbhusal stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhusal&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="top langs" width="48%" height="48px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhusal&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="top langs" width="48%" height="48vh" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatbhusal&theme=gruvbox&hide_border=true" alt="streak stats" />
