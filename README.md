@@ -65,7 +65,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatbhusal&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="prabhatbhusal stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhatbhusal&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="prabhatbhusal stats" width="48%" height="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhusal&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="top langs" width="48%" height="48%" />
   <br/>
   <br/>
