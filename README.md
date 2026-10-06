@@ -1,21 +1,17 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=F70000&background=62FF2500&center=true&width=600&lines=Hi+%F0%9F%91%8B;%F0%9F%92%BBI'm+Prabhat+Bhusal" alt="Typing SVG" /></a>
-  <!-- Animated Typing Effect -->
+  
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E88E23&center=true&vCenter=true&width=600&lines=🎮+Game+Developer;🌌+3DGS+%26+Spatial+Web+Dev;💻+Full+Stack+Developer;✨+Crafting+Immersive+Worlds!" alt="Typing SVG" />
 </a>
-
   <p><i>Pushing the boundaries of spatial computing, photorealistic rendering, and interactive web experiences from Nepal 🇳🇵</i></p>
-
   <p>
     <img src="https://komarev.com/ghpvc/?username=prabhatbhusal&label=Profile%20views&color=E88E23&style=flat" alt="Profile Views" />
     <a href="https://twitter.com/prabhatbhusal4" target="_blank">
       <img src="https://img.shields.io/twitter/follow/prabhatbhusal4?logo=twitter&style=flat&color=blue" alt="Twitter Follow" />
     </a>
   </p>
-  
  ### 🌐 Connect With Me
-
 <div align="center">
   <a href="https://twitter.com/prabhatbhusal4" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
