@@ -79,14 +79,9 @@ mindmap
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D65D0E,50:FABD2F,100:8EC07C&height=3" width="100%" alt="divider" />
 
-### 🚀 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/prabhatbhusal/Url-Shortener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhatbhusal&repo=Url-Shortener&theme=gruvbox&hide_border=true" alt="Url-Shortener" /></a>
-<!-- Add more pins by copying the line above and changing repo=<RepoName> -->
 
-</div>
 
 ### 🐍 GitHub Contribution Snake
 
