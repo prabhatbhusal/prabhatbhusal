@@ -107,16 +107,7 @@ mindmap
 
 <img src="https://streak-stats.demolab.com/?user=prabhatbhusal&theme=gruvbox&hide_border=true" alt="streak stats" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" />
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</picture>
+
 
 </div>
 
-<div align="center">
-
-<img src="assets/wave-footer.svg" alt="footer" width="100%" />
-
-</div>
