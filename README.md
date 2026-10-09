@@ -79,9 +79,14 @@ mindmap
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D65D0E,50:FABD2F,100:8EC07C&height=3" width="100%" alt="divider" />
 
+### 🚀 Featured Projects
 
+<div align="center">
 
+<a href="https://github.com/prabhatbhusal/Url-Shortener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhatbhusal&repo=Url-Shortener&theme=gruvbox&hide_border=true" alt="Url-Shortener" /></a>
+<!-- Add more pins by copying the line above and changing repo=<RepoName> -->
 
+</div>
 
 ### 🐍 GitHub Contribution Snake
 
@@ -102,12 +107,16 @@ mindmap
 
 <img src="https://streak-stats.demolab.com/?user=prabhatbhusal&theme=gruvbox&hide_border=true" alt="streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhatbhusal&theme=gruvbox&hide_border=true&area=true" alt="contribution activity graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FABD2F,25:D65D0E,60:3C3836,100:282828&height=120&section=footer" alt="footer" width="100%" />
+<img src="assets/wave-footer.svg" alt="footer" width="100%" />
 
 </div>
