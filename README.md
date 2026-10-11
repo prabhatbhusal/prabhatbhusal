@@ -8,7 +8,7 @@
 
 <img src="assets/splat-ridge.svg" alt="Gaussian splats assembling into a Himalayan ridge" width="100%" />
 
-<p><i>Pushing the boundaries of 3d-spatial computing, photorealistic rendering, and interactive web experiences from Nepal 🇳🇵</i></p>
+<p><i>Pushing the boundaries of 3d-spatial computing, photorealistic rendering, providing gaming experiences and interactive web experiences from Nepal 🇳🇵</i></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=prabhatbhusal&label=Profile%20views&color=E88E23&style=flat" alt="Profile Views" />
