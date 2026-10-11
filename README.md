@@ -94,10 +94,10 @@ mindmap
 ### 📊 GitHub Analytics
 
 <div align="center">
-
+<div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=prabhatbhusal&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="prabhatbhusal stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhusal&locale=en&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="top langs" />
-
+</div>
 <img src="https://streak-stats.demolab.com/?user=prabhatbhusal&theme=gruvbox&hide_border=true" alt="streak stats" />
 
 
