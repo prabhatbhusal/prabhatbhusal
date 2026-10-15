@@ -94,21 +94,15 @@ mindmap
 ### 📊 GitHub Analytics
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=prabhatbhusal&show_icons=true&locale=en&theme=gruvbox&hide_border=true" width="100%" alt="GitHub stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhusal&locale=en&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" width="100%" alt="Top languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=prabhatbhusal&theme=gruvbox&hide_border=true" width="100%" alt="GitHub streak stats" />
-    </td>
-  </tr>
-</table>
+  <img width="600" height="180" src="https://github-readme-stats.vercel.app/api?username=prabhatbhusal&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="GitHub stats" />
+
+  <br/>
+
+  <img width="600" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhusal&locale=en&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Most used languages" />
+
+  <br/>
+
+  <img width="600" height="180" src="https://streak-stats.demolab.com/?user=prabhatbhusal&theme=gruvbox&hide_border=true&card_width=600" alt="GitHub streak stats" />
 
 </div>
 
