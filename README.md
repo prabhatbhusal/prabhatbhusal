@@ -99,7 +99,10 @@ mindmap
 
 </div>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhusal&locale=en&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="top langs" />
-<img src="https://streak-stats.demolab.com/?user=prabhatbhusal&theme=gruvbox&hide_border=true" alt="streak stats" />
+<div>
+  <img src="https://streak-stats.demolab.com/?user=prabhatbhusal&theme=gruvbox&hide_border=true" alt="streak stats" />
+</div>
+
 
 
 
