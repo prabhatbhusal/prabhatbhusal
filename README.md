@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,40:3C3836,75:D65D0E,100:FABD2F&height=200&section=header&text=Prabhat%20Bhusal&fontSize=58&fontColor=FBF1C7&animation=twinkling&fontAlignY=38&desc=Game%20Dev%20%E2%80%A2%203DGS%20%E2%80%A2%20%E2%80%A2%20Nepal&descAlignY=60&descSize=17" alt="Prabhat Bhusal" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,40:3C3836,75:D65D0E,100:FABD2F&height=200&section=header&text=Prabhat%20Bhusal&fontSize=58&fontColor=FBF1C7&animation=twinkling&fontAlignY=38&desc=Game%20Dev%20%E2%80%A2%203DGS%20%E2%80%A2%20Nepal&descAlignY=60&descSize=17" alt="Prabhat Bhusal" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=FE8019&background=62FF2500&center=true&width=600&lines=Hi+%F0%9F%91%8B;%F0%9F%92%BBI'm+Prabhat+Bhusal" alt="Typing SVG" /></a>
 
